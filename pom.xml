@@ -65,7 +65,7 @@
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
-			<version>3.16</version>
+			<version>5.4.0</version>
 		</dependency>
 		<!-- 处理excel和上面功能是一样的 -->
 		<dependency>
